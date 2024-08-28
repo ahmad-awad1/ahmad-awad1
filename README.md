@@ -1,24 +1,30 @@
-## Hi there 👋
-"Hey, I'm Ahmad Awad, a senior at UNC Charlotte, studying Computer Science with a concentration in Software Engineering, and a minor in Mathematics."
-
+# Hi there 👋
+Hey, I'm **Ahmad Awad**, a senior at UNC Charlotte, studying Computer Science with a concentration in Software Engineering, and a minor in Mathematics.
 
 ## 👨‍🏫 About Me
-
-- **Profession:** Sales Representative at T-mobile and Computer Science IA/grader 
-- **Interests:** Software Engineering, Hands ontech
+- **Profession:** Sales Representative at T-Mobile | Computer Science IA/Grader
+- **Interests:** Software Engineering, Hands-on Tech
 - **Languages:** Java, JavaScript, HTML, CSS, SQL
 
-
 ## 🌟 Featured Projects
+### 🌐 Personal Website Portfolio
+- **Description:** Created a professional website portfolio to showcase my skills, projects, and achievements.
+- **Tech Stack:** HTML, CSS, JavaScript
 
-### Personal Website Portfolio
-**Description:** Designed a professional-quality website portfolio using HTML, CSS, and JavaScript to showcase my skills, projects, and achievements.
-**Languages:** Implemented HTML and CSS to create the overall layout and design of the website.
+### 📚 Bookstore Management System
+- **Description:** Developed a program that enables customers to purchase or return items commonly found in bookstores. Designed a user-friendly interface for browsing products, managing shopping carts, and processing transactions.
+- **Tech Stack:** Java
+
+## 🎯 Goals
+- Continuously improving my software development skills.
+- Exploring new technologies and frameworks.
+- Contributing to open-source projects.
+
+## 📫 Let's Connect!
+- **Email:** [aawad1@uncc.edu](mailto:aawad1@uncc.edu)
+- **LinkedIn:** [linkedin.com/in/ahmad-awad-556357247](https://linkedin.com/in/ahmad-awad-556357247)
 
 
-### Book store
-**Description:**	Developed a program that enables customers to purchase or return a wide variety of items commonly found in bookstores. Utilized Java to create a user-friendly interface that allows users to browse products, add items to their shopping cart, and process transactions seamlessly.
-**Languages:** Java
 
 <!--
 **ahmad-awad1/ahmad-awad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
