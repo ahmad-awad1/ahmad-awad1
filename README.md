@@ -15,7 +15,7 @@ Hey, I'm **Ahmad Awad**, a senior at UNC Charlotte, studying Computer Science wi
 - **Description:** Developed a program that enables customers to purchase or return items commonly found in bookstores. Designed a user-friendly interface for browsing products, managing shopping carts, and processing transactions.
 - **Tech Stack:** Java
 
-## 🎯 Goals
+## 🎯 Goals and Future Aspirations 🚀
 - Continuously improving my software development skills.
 - Exploring new technologies and frameworks.
 - Contributing to open-source projects.
@@ -40,12 +40,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## 🎯 Goals
-
-- 
-
-## 📫 Let's Connect!
-
-- **Email:** aawad1@uncc.edu
-- **LinkedIn:** linkedin.com/in/ahmad-awad-556357247
