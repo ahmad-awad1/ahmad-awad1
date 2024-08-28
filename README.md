@@ -2,7 +2,7 @@
 Hey, I'm **Ahmad Awad**, a senior at UNC Charlotte, studying Computer Science with a concentration in Software Engineering, and a minor in Mathematics.
 
 ## 👨‍🏫 About Me
-- **Profession:** Sales Representative at T-Mobile | Computer Science IA/Grader
+- **Profession:** Sales Representative at T-Mobile | Computer Science IA/Grader | OneIt at UNC Charlotte
 - **Interests:** Software Engineering, Hands-on Tech
 - **Languages:** Java, JavaScript, HTML, CSS, SQL
 
@@ -14,6 +14,11 @@ Hey, I'm **Ahmad Awad**, a senior at UNC Charlotte, studying Computer Science wi
 ### 📚 Bookstore Management System
 - **Description:** Developed a program that enables customers to purchase or return items commonly found in bookstores. Designed a user-friendly interface for browsing products, managing shopping carts, and processing transactions.
 - **Tech Stack:** Java
+
+  ## 📚 What I'm Currently Working On
+
+- Enhancing my coding skills.
+- Enhancing my resume. 
 
 ## 🎯 Goals and Future Aspirations 🚀
 - Continuously improving my software development skills.
